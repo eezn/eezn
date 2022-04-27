@@ -5,9 +5,9 @@
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"> 
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eezn&layout=compact&hide=objective-c,roff&langs_count=6&hide_title=true&card_width=445)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eezn&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eezn&layout=compact&hide=objective-c,roff&langs_count=6&hide_title=true&card_width=445)
 
 <!--
 <img src="https://img.shields.io/badge/42 Seoul-000000?style=flat&logo=42&logoColor=white">
