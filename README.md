@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feezn%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=pplaneoo)](https://solved.ac/pplaneoo)
+
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"> 
 
@@ -23,9 +25,9 @@
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white">
 -->
 
-
-[![mazandi profile](http://mazandi.herokuapp.com/api?handle=pplaneoo&theme=light)](https://github.com/eezn/problem-solving)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eezn&layout=compact)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eezn)
+
+<!--
+[![mazandi profile](http://mazandi.herokuapp.com/api?handle=pplaneoo&theme=light)](https://github.com/eezn/problem-solving) -->
