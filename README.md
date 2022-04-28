@@ -9,7 +9,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eezn&show_icons=true)
 
 
-<!--
+
 <img src="https://img.shields.io/badge/42 Seoul-000000?style=flat&logo=42&logoColor=white">
 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
@@ -27,4 +27,4 @@
 <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white">
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white">
 
-[![mazandi profile](http://mazandi.herokuapp.com/api?handle=pplaneoo&theme=light)](https://github.com/eezn/problem-solving) -->
+[![mazandi profile](http://mazandi.herokuapp.com/api?handle=pplaneoo&theme=light)](https://github.com/eezn/problem-solving) -
