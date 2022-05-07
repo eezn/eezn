@@ -15,11 +15,7 @@
 
 
 <!--
-<img src="https://img.shields.io/badge/42 Seoul-000000?style=flat&logo=42&logoColor=white">
-
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white">
-<img src="https://img.shields.io/badge/C-00599C?style=flat"> <img src="https://img.shields.io/badge/CPP-00599C?style=flat">
+<img src="https://img.shields.io/badge/42 Seoul-000000?style=flat&logo=42&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white"> <img src="https://img.shields.io/badge/C-00599C?style=flat"> <img src="https://img.shields.io/badge/CPP-00599C?style=flat">
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"> 
 <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white">
