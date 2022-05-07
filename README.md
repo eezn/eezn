@@ -2,7 +2,8 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=pplaneoo)](https://solved.ac/pplaneoo)
 
 
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white"> <img src="https://img.shields.io/badge/JdbcTemplate-007396?style=flat&logo=jdbctemplate&logoColor=white">
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white">  
+<img src="https://img.shields.io/badge/JdbcTemplate-007396?style=flat&logo=jdbctemplate&logoColor=white"> <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white"> 
 
 <!--
 <img src="https://img.shields.io/badge/JdbcTemplate-4E7C9D?style=flat&logo=jdbctemplate&logoColor=white"> <img src="https://img.shields.io/badge/H2 Database-1D21FF?style=flat&logo=h2database&logoColor=white"> 
